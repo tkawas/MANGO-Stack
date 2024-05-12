@@ -1,0 +1,15 @@
+C:\Users\tariq\Documents\GitHub\MANGO-Stack\MyConsoleApp\bin\Debug\net6.0\MyConsoleApp.exe
+C:\Users\tariq\Documents\GitHub\MANGO-Stack\MyConsoleApp\bin\Debug\net6.0\MyConsoleApp.deps.json
+C:\Users\tariq\Documents\GitHub\MANGO-Stack\MyConsoleApp\bin\Debug\net6.0\MyConsoleApp.runtimeconfig.json
+C:\Users\tariq\Documents\GitHub\MANGO-Stack\MyConsoleApp\bin\Debug\net6.0\MyConsoleApp.dll
+C:\Users\tariq\Documents\GitHub\MANGO-Stack\MyConsoleApp\bin\Debug\net6.0\MyConsoleApp.pdb
+C:\Users\tariq\Documents\GitHub\MANGO-Stack\MyConsoleApp\obj\Debug\net6.0\MyConsoleApp.csproj.AssemblyReference.cache
+C:\Users\tariq\Documents\GitHub\MANGO-Stack\MyConsoleApp\obj\Debug\net6.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tariq\Documents\GitHub\MANGO-Stack\MyConsoleApp\obj\Debug\net6.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\tariq\Documents\GitHub\MANGO-Stack\MyConsoleApp\obj\Debug\net6.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\tariq\Documents\GitHub\MANGO-Stack\MyConsoleApp\obj\Debug\net6.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\tariq\Documents\GitHub\MANGO-Stack\MyConsoleApp\obj\Debug\net6.0\MyConsoleApp.dll
+C:\Users\tariq\Documents\GitHub\MANGO-Stack\MyConsoleApp\obj\Debug\net6.0\refint\MyConsoleApp.dll
+C:\Users\tariq\Documents\GitHub\MANGO-Stack\MyConsoleApp\obj\Debug\net6.0\MyConsoleApp.pdb
+C:\Users\tariq\Documents\GitHub\MANGO-Stack\MyConsoleApp\obj\Debug\net6.0\MyConsoleApp.genruntimeconfig.cache
+C:\Users\tariq\Documents\GitHub\MANGO-Stack\MyConsoleApp\obj\Debug\net6.0\ref\MyConsoleApp.dll
